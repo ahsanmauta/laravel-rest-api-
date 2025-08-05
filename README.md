@@ -61,7 +61,7 @@ Use Postman to test the API.
 
 ## License
 
-The Laravel 8 Crud is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+The Laravel 8 Rest Api is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
 
 ## Contact
