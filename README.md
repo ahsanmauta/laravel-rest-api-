@@ -1,10 +1,8 @@
-<p align="center"><a href="https://nazmulrobin.com" target="_blank"><img src="http://laravel.nazmulrobin.com/images/nhrrob/nhrblog-logo-white.png" width="400"></a></p>
-
 <p align="center">
-<a href="https://github.com/nhrrob/laravel-8-api-crud/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/nhrrob/laravel-8-api-crud"></a>
-<a href="https://github.com/nhrrob/laravel-8-api-crud/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/nhrrob/laravel-8-api-crud"></a>
-<a href="https://github.com/nhrrob/laravel-8-api-crud/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/nhrrob/laravel-8-api-crud"></a>
-<a href="https://github.com/nhrrob/laravel-8-api-crud/blob/master/LICENSE.md"><img alt="GitHub license" src="https://img.shields.io/github/license/nhrrob/laravel-8-api-crud"></a>
+<a href="https://github.com/ahsanmauta/laravel-rest-api-/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/ahsanmauta/laravel-rest-api-"></a>
+<a href="https://github.com/ahsanmauta/laravel-rest-api-/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/ahsanmauta/laravel-rest-api-"></a>
+<a href="https://github.com/ahsanmauta/laravel-rest-api-/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/ahsanmauta/laravel-rest-api-"></a>
+<a href="https://github.com/ahsanmauta/laravel-rest-api-/blob/master/LICENSE.md"><img alt="GitHub license" src="https://img.shields.io/github/license/ahsanmauta/laravel-rest-api-"></a>
 
 </p>
 
