@@ -31,7 +31,7 @@ This app created to help developers to get started with their api crud based app
 
 Install commands:
 ``` 
-- git clone https://github.com/nhrrob/laravel-8-api-crud.git 
+- git clone https://github.com/ahsanmauta/laravel-rest-api-.git 
 - composer update
 - add .env and update database settings
 - php artisan migrate:fresh --seed
@@ -45,7 +45,7 @@ Use Postman to test the API.
 ## Note
 
 - Login: 
-    - URL: http://laravel-8-api-crud.rob/api/login 
+    - URL: http://localhost/api/login 
     - Method: POST
     - Insert email and password: Body tab => x-www-form-urlencode
     - Press Enter to get Bearer token;
